@@ -1,0 +1,13 @@
+.Stories {
+    display: flex;
+    background: white;
+    border: 1px solid #dadada;
+    border-radius: 20px;
+    height: 90px;
+    margin: 20px 0;
+}
+
+.Stories img {
+    width: 40px;
+    height: 40px;
+}
